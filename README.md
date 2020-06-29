@@ -62,7 +62,7 @@ githubEmbed('#root', {
         {
             "type": "htmlpage",
             "label": "Embedded HTML page",
-            "url": "http://example.com/"
+            "url": "https://DevDemo.github.io/gitHUB-embed/ressources/loadingSVG.html"
         },
         {
     		"type": "js",
@@ -85,7 +85,7 @@ githubEmbed('#root', {
 In case if you want to embed your code on few places and you don't want to break something when a file path is changed (eg you have renamed ``app.js`` to ``index.js``) you can store embedding settings remotely inside a file next to embedded files. It allows to get your embedding always up to date and you'll need to modify it when paths are changed.
 
 ```js
-githubEmbed('.embed', 'https://github.com/finom/github-embed/blob/master/.gh-embed.json');
+githubEmbed('.embed', 'https://github.com/devdemo/gitHUB-embed/blob/master/.gh-embed.json');
 ```
 
 Usually I call settings file **.gh-embed.json**.
