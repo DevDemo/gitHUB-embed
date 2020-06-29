@@ -22,7 +22,7 @@ CSS is placed at **node_modules/github-embed/npm/css/github-embed.css**.
 
 ### Direct use
 
-Bundled (downloadable) version and the demo of the tool lives at [gh-pages branch](https://github.com/finom/github-embed/tree/gh-pages).
+Bundled (downloadable) version and the demo of the tool lives at [gh-pages branch](https://github.com/devdemo/github-embed/tree/gh-pages).
 ```html
 <script src="https://cdnjs.cloudflare.com/ajax/libs/babel-polyfill/6.23.0/polyfill.min.js"></script>
 <script src="github-embed.min.js"></script>
@@ -98,7 +98,7 @@ It should contain valid JSON object with data described above. The only differen
         {
             "type": "htmlpage",
             "label": "Embedded HTML page",
-            "url": "http://example.com/"
+            "url": "https://DevDemo.github.io/gitHUB-embed/ressources/loadingSVG.html"
         },
         {
     		"type": "js",
