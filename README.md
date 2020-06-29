@@ -1,10 +1,10 @@
-# github-embed [![npm version](https://badge.fury.io/js/github-embed.svg)](https://badge.fury.io/js/github-embed)
+# github-embed [![npm version](https://badge.fury.io/js/github-embed.svg)](https://DevDemo.github.io/github-embed)
 
 The tool allows to embed code from Github on a webpage.
 
 ![](http://i.imgur.com/d6Ysdpg.png)
 
-[Demo](http://finom.github.io/github-embed/demo.html)
+[Demo](https://DevDemo.github.io/gitHUB-embed/ressources/demo.html)
 
 ## Usage
 
