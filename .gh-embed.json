@@ -3,7 +3,7 @@
         {
             "type": "htmlpage",
             "label": "Embedded HTML page",
-            "url": "https://devdemo.github.io/dwPaint-Addins/ressource/loadingSVG.html"
+            "url": "https://github.com/DevDemo/dwPaint-Addins/blob/master/ressource/loadingSVG.html"
         },
         {
     		"type": "js",

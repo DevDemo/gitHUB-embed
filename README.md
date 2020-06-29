@@ -4,7 +4,7 @@ The tool allows to embed code from Github on a webpage.
 
 ![](http://i.imgur.com/d6Ysdpg.png)
 
-[Demo](https://DevDemo.github.io/gitHUB-embed/ressources/demo.html)
+[Demo](https://github.com/DevDemo/dwPaint-Addins/blob/master/ressources/demo.html)
 
 ## Usage
 
@@ -22,7 +22,7 @@ CSS is placed at **node_modules/github-embed/npm/css/github-embed.css**.
 
 ### Direct use
 
-Bundled (downloadable) version and the demo of the tool lives at [gh-pages branch](https://github.com/devdemo/github-embed/tree/gh-pages).
+Bundled (downloadable) version and the demo of the tool lives at [gh-pages branch](https://github.com/DevDemo/gitHUB-embed/blob/tree/gh-pages).
 ```html
 <script src="https://cdnjs.cloudflare.com/ajax/libs/babel-polyfill/6.23.0/polyfill.min.js"></script>
 <script src="github-embed.min.js"></script>
@@ -62,7 +62,7 @@ githubEmbed('#root', {
         {
             "type": "htmlpage",
             "label": "Embedded HTML page",
-            "url": "https://DevDemo.github.io/gitHUB-embed/ressources/loadingSVG.html"
+            "url": "https://github.com/DevDemo/gitHUB-embed/blob/master/ressources/loadingSVG.html"
         },
         {
     		"type": "js",
@@ -98,7 +98,7 @@ It should contain valid JSON object with data described above. The only differen
         {
             "type": "htmlpage",
             "label": "Embedded HTML page",
-            "url": "https://DevDemo.github.io/gitHUB-embed/ressources/loadingSVG.html"
+            "url": "https://github.com/DevDemo/dwPaint-Addins/blob/master/ressources/loadingSVG.html"
         },
         {
     		"type": "js",
