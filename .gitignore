@@ -1,0 +1,6 @@
+node_modules
+npm-debug.log
+.directory
+bundle
+npm
+demo.html
